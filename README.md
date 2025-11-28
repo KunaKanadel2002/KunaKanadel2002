@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KunaKanadel2002
-- 👀 I’m interested in MERN 
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking anybody to guide me to learn mern stack for free
+- 👀 I’m Salesforce Developer
+- 🌱 I’m currently learning LWC
+- 💞️ I’m looking anybody to guide me to learn salesforce for free
 - 📫 kanadekunal2002@gmail.com
 
 <!---
